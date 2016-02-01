@@ -1,1 +1,2 @@
-# dannypaton-dot-com-jan2016
+# dannypaton.com
+Updated portfolio website, Jan 2016.
